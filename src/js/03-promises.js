@@ -51,4 +51,5 @@ function onBtnSubmit(event) {
       });
     promiseDelay += promiseStep;
   }
+  // done
 }
